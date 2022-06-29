@@ -20,5 +20,8 @@
     "node": ">=14.0.0",
     "npm": ">=6.0.0",
     "yarn": "please use npm"
+  },
+  "dependencies": {
+    "decentraland": "^3.11.0"
   }
 }
