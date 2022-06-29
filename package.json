@@ -16,5 +16,9 @@
   },
   "dependencies": {
     "decentraland": "^3.11.0"
+  },
+  "engines": {
+    "node": ">=14.0.0",
+    "npm": ">=6.0.0"
   }
 }
